@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Msc IT Student<br>Expanding my knowledge on Cloud and Networking.
 
 
